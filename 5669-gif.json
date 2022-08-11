@@ -1,0 +1,54 @@
+{
+  "name": "BigHeadBillionaires #5669",
+  "symbol": "BHB",
+  "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
+  "seller_fee_basis_points": 300,
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/5669.gif",
+  "external_url": "BigHeadBillionaires",
+  "edition": 5669,
+  "attributes": [
+    {
+      "trait_type": "Hypnosis",
+      "value": "Bleach"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cyber Punk"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Ski Jacket"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Creeper"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Annoyed"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/5669.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 100
+      }
+    ]
+  }
+}
