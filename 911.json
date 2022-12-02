@@ -3,7 +3,7 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "911.png",
+  "image": "https://bafybeifa22aeoukreflwlsl2dbvb4gh6iueyps3z2xj7nn44fvan5s747y.ipfs.nftstorage.link/",
   "external_url": "BigHeadBillionaires",
   "edition": 911,
   "attributes": [
@@ -39,8 +39,8 @@
   "properties": {
     "files": [
       {
-        "uri": "911.png",
-        "type": "image/png"
+        "uri": "https://bafybeifa22aeoukreflwlsl2dbvb4gh6iueyps3z2xj7nn44fvan5s747y.ipfs.nftstorage.link/",
+        "type": "image/gif"
       }
     ],
     "category": "image",
