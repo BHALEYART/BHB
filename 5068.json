@@ -8,6 +8,10 @@
   "edition": 5068,
   "attributes": [
     {
+      "trait_type": "Upgraded",
+      "value": "Animated"
+    },
+    {
       "trait_type": "Hypnosis",
       "value": "Mania"
     },
