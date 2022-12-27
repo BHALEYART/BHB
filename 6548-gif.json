@@ -8,6 +8,10 @@
   "edition": 6548,
   "attributes": [
     {
+      "trait_type": "Upgraded",
+      "value": "Animated"
+    },
+    {
       "trait_type": "Hypnosis",
       "value": "Aquatic"
     },
