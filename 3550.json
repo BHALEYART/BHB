@@ -8,6 +8,10 @@
   "edition": 3550,
   "attributes": [
     {
+      "trait_type": "Upgrade",
+      "value": "Animated"
+    },
+    {
       "trait_type": "Hypnosis",
       "value": "Lavish"
     },
