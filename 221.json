@@ -8,12 +8,12 @@
   "edition": 221,
   "attributes": [
     {
-      "trait_type": "Upgraded",
-      "value": "Animated"
-    },
-    {
       "trait_type": "Hypnosis",
       "value": "Natural"
+    },
+    {
+      "trait_type": "Upgraded",
+      "value": "Animated"
     },
     {
       "trait_type": "Body",
