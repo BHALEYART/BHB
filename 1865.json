@@ -3,7 +3,7 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/1865NEW.png",
+  "image": "1865.png",
   "external_url": "BigHeadBillionaires",
   "edition": 1865,
   "attributes": [
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Texture",
-      "value": "Magical"
+      "value": "None"
     },
     {
       "trait_type": "Head",
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/1865NEW.png",
+        "uri": "1865.png",
         "type": "image/png"
       }
     ],
