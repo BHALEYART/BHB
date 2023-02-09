@@ -1,0 +1,54 @@
+{
+  "name": "BigHeadBillionaires #389",
+  "symbol": "BHB",
+  "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
+  "seller_fee_basis_points": 300,
+  "image": "389.png",
+  "external_url": "BigHeadBillionaires",
+  "edition": 389,
+  "attributes": [
+    {
+      "trait_type": "Hypnosis",
+      "value": "Natural"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Mid Tone"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Moto X"
+    },
+    {
+      "trait_type": "Texture",
+      "value": "None"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Outlaw"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotized"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "389.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 100
+      }
+    ]
+  }
+}
