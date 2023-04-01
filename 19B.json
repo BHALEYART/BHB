@@ -1,0 +1,30 @@
+{
+  "name": "BigHead1of1s #20",
+  "symbol": "BHBO",
+  "description": "25 Unique hand crafted Big Head Billionaires.",
+  "seller_fee_basis_points": 300,
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/BlueB.png",
+  "external_url": "BigHead1of1s",
+  "edition": 19,
+  "attributes": [
+    {
+      "trait_type": "APRIL FOOLS",
+      "value": "Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/BlueB.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ejehx7PJVYpLcfivsshBTYsnvr1ni9TPHZGcCkRKBQb",
+        "share": 100
+      }
+    ]
+  }
+}
