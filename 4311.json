@@ -3,43 +3,19 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "4311.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/DaveyJones.png",
   "external_url": "BigHeadBillionaires",
   "edition": 4311,
   "attributes": [
     {
-      "trait_type": "Hypnosis",
-      "value": "Mania"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Mid Tone"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Red Tee"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "None"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Ahh"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Stoney Eyes"
+      "trait_type": "Unique",
+      "value": "Davey Jones"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "4311.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/DaveyJones.png",
         "type": "image/png"
       }
     ],
