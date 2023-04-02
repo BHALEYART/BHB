@@ -3,43 +3,19 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "632.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Dick%20Grayson.png",
   "external_url": "BigHeadBillionaires",
   "edition": 632,
   "attributes": [
     {
-      "trait_type": "Hypnosis",
-      "value": "Mania"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Charcoal"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Moto X"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "None"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Fireman"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Uhh"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Paranoid"
+      "trait_type": "Unique",
+      "value": "Dick Grayson"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "632.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Dick%20Grayson.png",
         "type": "image/png"
       }
     ],
