@@ -3,43 +3,19 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "4898.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Poison%20Ivy.png",
   "external_url": "BigHeadBillionaires",
   "edition": 4898,
   "attributes": [
     {
-      "trait_type": "Hypnosis",
-      "value": "Regal"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Meat Lover"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Pink Zip"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Beanie"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Smirk"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Curious"
+      "trait_type": "Unique",
+      "value": "Poison Ivy"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "4898.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Poison%20Ivy.png",
         "type": "image/png"
       }
     ],
