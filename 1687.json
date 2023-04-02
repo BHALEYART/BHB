@@ -3,43 +3,19 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "1687.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/The%20Rugger.png",
   "external_url": "BigHeadBillionaires",
   "edition": 1687,
   "attributes": [
     {
-      "trait_type": "Hypnosis",
-      "value": "Natural"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Chrome Dome"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Moto X"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "Ink"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Hunted"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Eee"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Spider"
+      "trait_type": "Unique",
+      "value": "The Rugger"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "1687.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/The%20Rugger.png",
         "type": "image/png"
       }
     ],
