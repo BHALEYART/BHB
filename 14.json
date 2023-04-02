@@ -3,43 +3,19 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "14.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Reggie.png",
   "external_url": "BigHeadBillionaires",
   "edition": 14,
   "attributes": [
     {
-      "trait_type": "Hypnosis",
-      "value": "Regal"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Turquoise"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Passion Dye"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "Ink"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Fancy Hat"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Pierced"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Diamond Stare"
+      "trait_type": "Unique",
+      "value": "Reggie The Hypnotist"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "14.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Reggie.png",
         "type": "image/png"
       }
     ],
