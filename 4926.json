@@ -3,43 +3,19 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "4926.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Mr%20Freeze.png",
   "external_url": "BigHeadBillionaires",
   "edition": 4926,
   "attributes": [
     {
-      "trait_type": "Hypnosis",
-      "value": "Natural"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Dark Tone"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Red Tee"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "Acid"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Antenna"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Uhh"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Dots"
+      "trait_type": "Unique",
+      "value": "Mr Freeze"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "4926.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Mr%20Freeze.png",
         "type": "image/png"
       }
     ],
