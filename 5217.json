@@ -3,43 +3,19 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "5217.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Majin%20Burg.png",
   "external_url": "BigHeadBillionaires",
   "edition": 5217,
   "attributes": [
     {
-      "trait_type": "Hypnosis",
-      "value": "Aquatic"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Mid Tone"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Commando"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "None"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Snapback Hippy"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Smirk"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Demonic"
+      "trait_type": "Unique",
+      "value": "Majin Burg"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "5217.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Majin%20Burg.png",
         "type": "image/png"
       }
     ],
