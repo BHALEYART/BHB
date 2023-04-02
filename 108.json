@@ -3,43 +3,19 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "108.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Kyle%20Valhalla.png",
   "external_url": "BigHeadBillionaires",
   "edition": 108,
   "attributes": [
     {
-      "trait_type": "Hypnosis",
-      "value": "Bleach"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Charcoal"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Moto X"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "None"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Thh"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Sunglasses"
+      "trait_type": "Unique",
+      "value": "Kyle Valhalla"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "108.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Kyle%20Valhalla.png",
         "type": "image/png"
       }
     ],
