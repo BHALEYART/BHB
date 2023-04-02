@@ -3,43 +3,19 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "5912.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Scuba%20Bae.png",
   "external_url": "BigHeadBillionaires",
   "edition": 5912,
   "attributes": [
     {
-      "trait_type": "Hypnosis",
-      "value": "Vibes"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Woody"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Trenches"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "None"
-    },
-    {
-      "trait_type": "Head",
-      "value": "None"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Lol"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Spider"
+      "trait_type": "Unique",
+      "value": "Scuba Bae"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "5912.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/Scuba%20Bae.png",
         "type": "image/png"
       }
     ],
