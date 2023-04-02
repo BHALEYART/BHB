@@ -3,43 +3,19 @@
   "symbol": "BHB",
   "description": "7K Self proclaimed Billionaires starring in a 2D Animated Comedy Series in the Metaverse.",
   "seller_fee_basis_points": 300,
-  "image": "2942.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/BHB/main/John%20Dambro.png",
   "external_url": "BigHeadBillionaires",
   "edition": 2942,
   "attributes": [
     {
-      "trait_type": "Hypnosis",
-      "value": "Aquatic"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Turquoise"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Yellow Tee"
-    },
-    {
-      "trait_type": "Texture",
-      "value": "Ink"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Hunted"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Uhh"
-    },
-    {
-      "trait_type": "Eyes",
-      "value": "Sunglasses"
+      "trait_type": "Unique",
+      "value": "John Dambro"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "2942.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/BHB/main/John%20Dambro.png",
         "type": "image/png"
       }
     ],
